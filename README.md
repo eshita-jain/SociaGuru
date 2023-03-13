@@ -11,7 +11,7 @@ npm run dev
 ```console
 npm run dev nodemon index.js
 ```
-
+Application Snapshot:
 
 ![11111](https://user-images.githubusercontent.com/80577092/224492975-35e00001-3dc5-4374-a8c3-72ff89f16df9.png)
 
